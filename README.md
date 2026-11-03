@@ -63,7 +63,7 @@ kenya-motor-insurance-claims/
 
 | Path | Description |
 | :--- | :--- |
-| [`report/Modelling Motor Vehicle Insurance Claims in Kenya.docx`](report/Modelling%20Motor%20Vehicle%20Insurance%20Claims%20in%20Kenya.docx) | The complete project report: five chapters, 23 tables, 14 figures and the full R appendix. |
+| [`report/Modelling Motor Vehicle Insurance Claims in Kenya.docx`](report/Modelling%20Motor%20Vehicle%20Insurance%20Claims%20in%20Kenya.docx) | The complete project report: five chapters, 19 tables, 12 figures and the full R appendix. |
 | [`presentation/Motor Insurance Frequency-Severity Presentation.pptx`](presentation/Motor%20Insurance%20Frequency-Severity%20Presentation.pptx) | The 14-slide defence presentation summarising the data, models, results and recommendations. |
 
 ---
@@ -75,7 +75,7 @@ kenya-motor-insurance-claims/
 | **1. Introduction** | Market context, statement of the problem, objectives, justification and significance. |
 | **2. Literature Review** | Motor claim modelling, frequency and severity GLMs, dependence, machine-learning approaches, and the research gap in Kenya. |
 | **3. Methodology** | Research design, data preparation, zero-truncated count models, Gamma and Lognormal severity models, pure premium construction, assumptions and limitations. |
-| **4. Data Analysis and Results** | Descriptive analysis, model estimation and comparison, diagnostics, pure premium estimation and risk-profile differentiation. |
+| **4. Data Analysis and Results** | **Part I — Data Analysis:** data preparation and descriptive analysis of frequency, severity and explanatory variables. **Part II — Results and Findings:** model estimates, diagnostics, pure premium estimation and risk-profile differentiation. |
 | **5. Conclusions and Recommendations** | Findings, practical recommendations and areas for future research. |
 | **References** | Eleven cited sources, including AKI and IRA industry reports. |
 | **Appendix A** | Complete R code for data preparation, modelling, diagnostics and pure premium estimation. |
